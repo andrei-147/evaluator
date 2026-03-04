@@ -1,7 +1,6 @@
 # Evaluator
 
 An open-source C++ solution analyzer for the Romanian Olympiad of Informatics, developed to provide immediate feedback on solution performance.
-(The only reason this exists is because I didn't want to wait 3 days for the problems to appear on a platform)
 
 ### Usage
 
