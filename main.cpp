@@ -167,5 +167,8 @@ int main(int argc, char* argv[]) {
             std::cerr << "[SYSTEM ERROR] " << e.what() << "\n";
         }
     }
+    if (fs::exists(local_in)) fs::remove(local_in);
+    if (fs::exists(local_out)) fs::remove(local_out);
+    if (fs::exists(fs::absolute("exec"))) fs::remove(fs::absolute("exec"));
     return 0;
 }
