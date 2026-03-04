@@ -9,6 +9,9 @@ evaluator </path/to/main.cpp> <target-directory>
 
 ```
 
+**Disclaimer:** This project currently targets Linux environments.
+Cross-platform support can be prioritized upon request.
+
 ---
 
 ## Configuration Requirements
