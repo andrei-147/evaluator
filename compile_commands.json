@@ -1,0 +1,17 @@
+[
+  {
+    "file": "main.cpp",
+    "arguments": [
+      "g++",
+      "-std=c++23",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "main.cpp",
+      "-o",
+      "my_program"
+    ],
+    "directory": "/home/andrei/projects/devel/cpp/evaluator",
+    "output": "my_program"
+  }
+]
